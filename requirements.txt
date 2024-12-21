@@ -4,5 +4,6 @@ numpy
 nbformat
 seaborn
 scipy
-matplotlib
-sklearn
+scikit-learn
+jupyter
+imblearn
