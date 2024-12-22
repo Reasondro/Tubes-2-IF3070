@@ -1,3 +1,9 @@
 train.csv
 .venv/
 .env/pi
+
+*.csv
+*.txt
+*.pkl
+predict-hotel-reservation-status.ipynb
+IF3070_DAI___Tugas_Kecil_2_Notebook_Template.ipynb
